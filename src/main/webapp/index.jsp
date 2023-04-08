@@ -7,7 +7,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>东软客户关系管理系统</title>
+	<title>朗星贸易客户关系管理系统</title>
 	<!-- build:css -->
 	<link rel="stylesheet" href="layui/css/layui.css">
 	<link rel="stylesheet" href="layui/css/kitadmin.css">
@@ -25,8 +25,8 @@
 				<div class="layui-logo-toggle" kit-toggle="side" data-toggle="on">
 					<i class="layui-icon">&#xe65a;</i>
 				</div>
-				<div class="layui-logo-brand" style="width: 174px;">
-					<a href="#/">客户关系管理系统</a>
+				<div class="layui-logo-brand" style="width: 244px;">
+					<a href="#/">朗星贸易客户关系管理系统</a>
 				</div>
 			</div>
 			<!-- <div class="layui-layout-left">
